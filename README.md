@@ -3,12 +3,14 @@
 Vue와 Spring을 활용해 사용자 친화적인 웹 애플리케이션을 개발하는 풀스택 엔지니어 김유정입니다. <br>
 새로운 것을 학습하는 과정에서 즐거움과 성취감을 많이 느끼며 재밌게 학습하고 있습니다.
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aabbc0908)
+
 <hr>
 
 ### 📚 My Tech Stack
-![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java11&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) </br>
+![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java11&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) </br>
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=yellow)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) </br>
