@@ -29,6 +29,7 @@ Vue와 Spring을 활용해 사용자 친화적인 웹 애플리케이션을 개�
 
 ### 🏅 Awards
 - 2024.12 삼성 청년 SW 아카데미 학업우수자 선정
+- 2025.02 삼성 청년 SW 아카데미 공통 프로젝트 우수상
 
 ### 🪪 Certificates
 - 2023.11 정보처리산업기사
@@ -37,4 +38,5 @@ Vue와 Spring을 활용해 사용자 친화적인 웹 애플리케이션을 개�
 
 ### 👩‍💻 Project
 - <a href="https://github.com/yujeong79/SSAFY_FINALPJT">SSAFIT, 내 챌린지를 도와줘!</a>
+- <a href="https://github.com/yujeong79/MyAlbba.git">내알빠다(MyAlbba)</a>
 
