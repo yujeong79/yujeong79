@@ -18,19 +18,16 @@ Vue와 Spring을 활용해 사용자 친화적인 웹 애플리케이션을 개�
 
 ## 📚 Skills
 ![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java11&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) </br>
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green)
+
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=yellow)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) </br>
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=ffffff) </br>
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 
 ## 👩‍💻 Project
-- <a href="https://github.com/yujeong79/SSAFY_FINALPJT">SSAFIT, 내 챌린지를 도와줘!</a>
+- <a href="https://github.com/pocketing-app/Pocketing">포켓팅(Pocketing)</a>
+- <a href="https://github.com/yujeong79/Naratil">나랏일(Naratil)</a>
 - <a href="https://github.com/yujeong79/MyAlbba.git">내알빠다(MyAlbba)</a>
-
+- <a href="https://github.com/yujeong79/SSAFY_FINALPJT">SSAFIT, 내 챌린지를 도와줘!</a>
