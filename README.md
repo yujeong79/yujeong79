@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=YUJEONG'S%20GITHUB%20&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+
 # 🏎️ 제로백이 짧은 백엔드 개발자 김유정 입니다.
 Vue와 Spring을 활용해 사용자 친화적인 웹 애플리케이션을 개발하는 풀스택 엔지니어 김유정입니다. <br>
 새로운 것을 학습하는 과정에서 즐거움과 성취감을 많이 느끼며 재밌게 학습하고 있습니다.
