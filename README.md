@@ -11,6 +11,9 @@ Vue와 Spring을 활용해 사용자 친화적인 웹 애플리케이션을 개�
 ## 🪪 Certificates
 - 2025.07 정보처리기사 <br>
 - 2023.11 정보처리산업기사 <br>
+### 어학
+- 2024.12 TOEIC SPEAKING IH 등급 <br>
+- 2023.09 TOEIC 900점 <br>
 
 ## 🏅 Awards
 - 2025.02 삼성 청년 SW 아카데미 공통 프로젝트(트랙:WebRTC를 활용한 웹기술) 우수상 <br>
