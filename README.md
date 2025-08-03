@@ -1,14 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=YUJEONG'S%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=제로백이%20짧은%20개발자%20김유정입니다💨&fontSize=30&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-# 🏎️ 제로백이 짧은 백엔드 개발자 김유정 입니다.
 Vue와 Spring을 활용해 사용자 친화적인 웹 애플리케이션을 개발하는 풀스택 엔지니어 김유정입니다. <br>
 새로운 것을 학습하는 과정에서 즐거움과 성취감을 많이 느끼며 재밌게 학습하고 있습니다.
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aabbc0908)
 
 ## 🎓 Experiences
-- 2024.7 - 2025.6 삼성 청년 SW 아카데미 12기 </br>
-- 2020.3 - 2024.2 경희대학교 글로벌문화기술융합전공 졸업 <br>
+- **2024.7 - 2025.6 삼성 청년 SW 아카데미 12기** </br>
+  - Java·Spring(Spring Boot 포함) 기반 웹 개발을 학습하고, 알고리즘·협업 툴(Git, Jira) 활용 능력을 팀 프로젝트로 실전 적용했습니다.
+- **2020.3 - 2024.2 경희대학교 글로벌문화기술융합전공 졸업** <br>
+
 
 ## 🪪 Certificates
 - 2025.07 정보처리기사 <br>
