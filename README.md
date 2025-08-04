@@ -43,7 +43,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=ffffff)
 
 ## 👩‍💻 Project
-- <a href="https://github.com/pocketing-app/Pocketing">포켓팅(Pocketing)</a>
+- <a href="https://yujeong79.notion.site/Pocketing-242372585e24805d8cb0ee673310a9b9">포켓팅(Pocketing)</a>
 - <a href="https://github.com/yujeong79/Naratil">나랏일(Naratil)</a>
 - <a href="https://github.com/yujeong79/MyAlbba.git">내알빠다(MyAlbba)</a>
 - <a href="https://github.com/yujeong79/SSAFY_FINALPJT">SSAFIT, 내 챌린지를 도와줘!</a>
