@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=제로백이%20짧은%20개발자%20김유정입니다💨&fontSize=30&animation=twinkling&fontAlign=68&fontAlignY=36)
+
+## 🐨 Introduce
 짧은 시간 내 실전 환경에 적응하고 성과를 만들어내는 백엔드 개발자입니다.<br>
-새롭게 접한 기술도 빠르게 이해하고 실무에 접목시키는 실행력을 기반으로, 변화에 유연하고 적응력 있는 백엔드 개발자로 성장하고 있습니다.
+새롭게 접한 기술도 빠르게 이해하고 실무에 접목시키는 실행력을 기반으로, 변화에 유연하고 적응력 있는 백엔드 개발자로 성장하고 있습니다!
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aabbc0908)
 
